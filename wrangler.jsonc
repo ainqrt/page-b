@@ -1,6 +1,6 @@
 {
   "$schema": "node_modules/wrangler/config-schema.json",
-  "name": "page",
+  "name": "page-b",
   "main": "src/index.ts",
   "compatibility_date": "2025-10-31",
   "d1_databases": [
