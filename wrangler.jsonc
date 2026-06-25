@@ -11,7 +11,7 @@
     }
   ],
   "vars": {
-    "JWT_SECRET": "",
+    "JWT_SECRET": "736b558f-5dd1-44c8-9787-76db9b165f8",
     "APP_ENV": "development"          
   }
 }
